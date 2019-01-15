@@ -5,6 +5,20 @@ body
 	padding: 0px;
 }
 
+h1 
+{
+	font-size: 2.5em;
+	color: #424558;
+	padding-left: 20px;
+}
+
+#container_logo
+{
+	display: flex;
+	justify-content: center;
+	margin:50px 50px;
+}
+
 nav>ul
 {
 	margin: 0px;
